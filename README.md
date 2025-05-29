@@ -20,8 +20,8 @@ Reassign stores to four regional offices (Staunton, Richmond, Warrenton, and Tap
 ## Files Included
 - `Final_Report_Phase_II.pdf` – Comprehensive write-up of model, analysis, results, and recommendations.
 - `Phase_I_Report.docx` – Initial feasibility analysis based on distance.
-- `Excel_Solver_Model_Phase_I.xlsx` – Solver-based implementation for Phase I.
-- `Realignment_Data.xlsx` – Travel, store, and staff data used for modeling.
+- `realignment_problem_optimization_solverxlp (5).xlsx` – Solver-based implementation for Phase I.
+- `realignment_data_new.xlsx` – Travel, store, and staff data used for modeling.
 
 ## Skills Applied
 - Optimization Modeling
